@@ -21,8 +21,29 @@
   Encourage users to open new tabs for steps!
 -->
 
-* I'm currently learning 
-* Open for any contrubution 
+# Hi there, I'm Falafel Code 👋
+
+I'm a passionate developer with a love for coding and creating innovative solutions. Welcome to my GitHub profile!
+
+## 🚀 About Me
+- 🔭 I’m currently Brainstorming for the start 
+- 🌱 I’m currently learning [APIs & Python ]
+- 👯 I’m looking to collaborate on [a simple webapp where its integrated with AI API]
+- 🤔 I’m looking for help with [planning the project ]
+- 💬 Ask me about [Mechatronics Engineer]
+- 📫 How to reach me: [v@vii7i.com]
+
+
+## 📈 GitHub Stats
+![Falafel Code's GitHub stats](https://github-readme-stats.vercel.app/api?username=falafel-code&show_icons=true&theme=radical)
+
+## 🛠️ My Tech Stack
+- **Languages:** [Languages You Know]
+- **Frameworks & Libraries:** [Frameworks and Libraries You Use]
+- **Tools & Platforms:** [OpenAI, Openroute.ai ]
+
+## 🌐 Connect with Me
+[![Twitter](https://img.shields.io/badge/Twitter-Profile-blue)](https://x.com/v7_77i)
 
 
 <footer>
